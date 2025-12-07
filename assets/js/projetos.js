@@ -67,7 +67,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://andrefguirro.github.io/portifolio-main/" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/AndrefGuirro/coberturas" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
